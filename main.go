@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/GROpenSourceDev/go-ntlm-auth/ntlm"
+	"github.com/hbavtq/go-ntlm-auth/ntlm"
 )
 
 var (
