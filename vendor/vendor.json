@@ -3,12 +3,6 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "ecIKj+RvdnGypL4HIKbRNASd2eQ=",
-			"path": "github.com/GROpenSourceDev/go-ntlm-auth/ntlm",
-			"revision": "6314d66e1d8ffd12a8da4be59eb4467b60dde719",
-			"revisionTime": "2016-05-19T08:35:35Z"
-		},
-		{
 			"checksumSHA1": "k7dj24i1Qu7rm1URfKic85+jNmQ=",
 			"path": "github.com/ThomsonReutersEikon/go-ntlm/ntlm",
 			"revision": "b00ec39bbdd04f845950f4dbb4fd0a2c3155e830",
@@ -25,6 +19,12 @@
 			"path": "github.com/ThomsonReutersEikon/log4go",
 			"revision": "173466d4d37ffd4ca9c400bc0b67d57b4a73cdae",
 			"revisionTime": "2015-05-11T21:30:27Z"
+		},
+		{
+			"checksumSHA1": "QiEHzm98+EwsCkRRHBw0wN9nRfE=",
+			"path": "github.com/hbavtq/go-ntlm-auth/ntlm",
+			"revision": "fc8274b597a0c034f0adf8d9487fd2c3cb74d763",
+			"revisionTime": "2017-06-01T08:56:53Z"
 		},
 		{
 			"checksumSHA1": "xAp2j8F8cVBPijlh6gdJ3B3Drtg=",
